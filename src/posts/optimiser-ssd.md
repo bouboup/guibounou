@@ -1,6 +1,6 @@
 ---
 title: "Optimiser disque SSD"
-path: "/SUB-PROCESS /USR/BIN/DPKG RETURNED AN ERROR CODE"
+path: "Optimiser disque SSD"
 date: "2020-06-20"
 ---
 

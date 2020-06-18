@@ -6,6 +6,7 @@ const cssnano = require('cssnano')
 const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
+  pathPrefix: '/guibounou',
   siteMetadata: {
     title: `kurunglu`,
     description: `Conseils techniques`,
